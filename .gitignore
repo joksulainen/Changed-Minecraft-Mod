@@ -7,3 +7,6 @@ run
 
 # Ignore Intellij IDEA files
 /.idea/
+
+# Ignore .vscode
+/.vscode/
