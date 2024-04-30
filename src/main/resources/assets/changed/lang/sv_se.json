@@ -22,6 +22,14 @@
   "ability.changed.select_special_state": "Välja särskild stat",
   "ability.changed.summon_sharks": "Tillkalla hajar",
 
+  "ability.changed.grab_entity": "Gripa enhet",
+  "ability.changed.grab_entity.how_to_grab": "Håll [%s] för att ta tag i en enhet",
+  "ability.changed.grab_entity.how_to_release": "Håll [%s] för att frige enheten",
+  "ability.changed.grab_entity.how_to_transfur": "Håll [%s] för att göra framsteg förpälsvandla",
+  "ability.changed.grab_entity.how_to_absorb": "Håll [%s] och [%s] för att framsteg absorption",
+  "ability.changed.grab_entity.how_to_suit": "Håll [%s] för att byta till kostym",
+  "ability.changed.grab_entity.how_to_toggle_control": "Tryck [%s] för att växla kontroll",
+
   "subtitles.changed.sound3": "Organisk förpälsvandla",
   "subtitles.changed.poison": "Förpälsvandla",
   "subtitles.changed.open2": "Dörr öppnas inte",
@@ -165,6 +173,7 @@
   "text.changed.syringe.no_owner": "Kan inte få spelares namn",
   "text.changed.tamed.wander": "%s är nu vandrande",
   "text.changed.tamed.follow": "%s är nu följer",
+  "text.changed.warning": "Varning",
 
   "effect.changed.hypercoagulation": "Hyperkoagulation",
   "effect.changed.shock": "Stöt",
@@ -365,9 +374,10 @@
   "entity.changed.light_latex_knight": "Ljuslatex riddare",
   "entity.changed.light_latex_wolf_female": "Kvinnlig ljuslatexvarg",
   "entity.changed.light_latex_wolf_male": "Manlig ljuslatexvarg",
-  "entity.changed.light_latex_wolf_organic": "Organisk ljusvarg",
   "entity.changed.shark": "Haj",
-  "entity.changed.white_latex_wolf": "Vit latexvarg",
+  "entity.changed.white_latex_wolf": "Helt vitt latexvarg",
+  "entity.changed.white_wolf_female": "Kvinnlig vit varg",
+  "entity.changed.white_wolf_male": "Manlig vit varg",
   "entity.changed.phage_latex_wolf_female": "Kvinnlig bakteriofag latexvarg",
   "entity.changed.phage_latex_wolf_male": "Manlig bakteriofag latexvarg",
 
@@ -433,9 +443,10 @@
   "item.changed.light_latex_knight_spawn_egg": "Skapelseägg för ljuslatex riddare",
   "item.changed.light_latex_wolf_female_spawn_egg": "Skapelseägg för kvinnlig ljuslatexvarg",
   "item.changed.light_latex_wolf_male_spawn_egg": "Skapelseägg för manlig ljuslatexvarg",
-  "item.changed.light_latex_wolf_organic_spawn_egg": "Skapelseägg för organisk ljusvarg",
   "item.changed.shark_spawn_egg": "Skapelseägg för haj",
-  "item.changed.white_latex_wolf_spawn_egg": "Skapelseägg för vit latexvarg",
+  "item.changed.white_latex_wolf_spawn_egg": "Skapelseägg för helt vitt latexvarg",
+  "item.changed.white_wolf_female_spawn_egg": "Skapelseägg för kvinnlig vit varg",
+  "item.changed.white_wolf_male_spawn_egg": "Skapelseägg för manlig vit varg",
   "item.changed.phage_latex_wolf_female_spawn_egg": "Skapelseägg för kvinnlig bakteriofag latexvarg",
   "item.changed.phage_latex_wolf_male_spawn_egg": "Skapelseägg för manlig bakteriofag latexvarg",
 
